@@ -1,0 +1,14 @@
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\bin\Debug\net6.0\Excercise3.exe
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\bin\Debug\net6.0\Excercise3.deps.json
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\bin\Debug\net6.0\Excercise3.runtimeconfig.json
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\bin\Debug\net6.0\Excercise3.dll
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\bin\Debug\net6.0\Excercise3.pdb
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\obj\Debug\net6.0\Excercise3.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\obj\Debug\net6.0\Excercise3.AssemblyInfoInputs.cache
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\obj\Debug\net6.0\Excercise3.AssemblyInfo.cs
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\obj\Debug\net6.0\Excercise3.csproj.CoreCompileInputs.cache
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\obj\Debug\net6.0\Excercise3.dll
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\obj\Debug\net6.0\refint\Excercise3.dll
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\obj\Debug\net6.0\Excercise3.pdb
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\obj\Debug\net6.0\Excercise3.genruntimeconfig.cache
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Excercise3\obj\Debug\net6.0\ref\Excercise3.dll

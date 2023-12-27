@@ -1,0 +1,38 @@
+﻿<Window x:Class="Exercise1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox Name="listBox1" Margin="101,51,400,133">            <ListBoxItem Background="#FFEE2A12">
+                <CheckBox Name="CoffieCheckBox">                    <StackPanel Orientation="Horizontal">                        <Image Source="./Image/Coffee.png" Height="30"></Image>                        <TextBlock Text="Coffee" Foreground="#FF1C6715"></TextBlock>                    </StackPanel>                </CheckBox>            </ListBoxItem>            <ListBoxItem Background="#FFE2F417">
+                <CheckBox Name="Tea">
+                    <StackPanel Orientation="Horizontal">                        <Image Source="./Image/Tea.png" Height="30"></Image>                        <TextBlock Text="Tea" Foreground="#FF074AA6"></TextBlock>                    </StackPanel>
+                </CheckBox>
+
+            </ListBoxItem>
+            <ListBoxItem Background="#FFD3DD62">
+                <CheckBox Name="OrageJuice">
+                    <StackPanel Orientation="Horizontal">                        <Image Source="./Image/OrageJuice.jpg" Height="30"></Image>                        <TextBlock Text="Orange Juice" Foreground="#FF951010"></TextBlock>                    </StackPanel>
+                </CheckBox>
+            </ListBoxItem>            <ListBoxItem Background="#FFD2AD38">
+                <CheckBox Name="Milk">
+                    <StackPanel Orientation="Horizontal">                        <Image Source="./Image/Milk.jpg" Height="30"></Image>                        <TextBlock Text="Milk" Foreground="#FF177C75"></TextBlock>                    </StackPanel>
+                </CheckBox>
+            </ListBoxItem>            <ListBoxItem Background="#FF1B5964">
+                <CheckBox Name="CheckBox">
+                    <StackPanel Orientation="Horizontal">                        <Image Source="./Image/IcedTea.jpg" Height="30" Width="40"></Image>                        <TextBlock Text="Iced Tea" Foreground="#FFA4CF12"></TextBlock>                    </StackPanel>
+                </CheckBox>
+            </ListBoxItem>            <ListBoxItem Background="#FF27CE3E">
+                <CheckBox Name="Mango">
+                    <StackPanel Orientation="Horizontal">                        <Image Source="./Image/Mango.jpg" Height="30"></Image>                        <TextBlock Text="Mango Skake" Foreground="#FFD6CC31"></TextBlock>                    </StackPanel>
+                </CheckBox>
+            </ListBoxItem>        </ListBox>
+        <TextBox x:Name="TextBox1" HorizontalAlignment="Left" Margin="101,28,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-0.193,1.327"/>
+        <Button x:Name="Button1" Content="Add Item" HorizontalAlignment="Left" Margin="226,26,0,0" VerticalAlignment="Top" Width="87" Click="Button1_Click"/>
+        <Button x:Name="Button2" Content="Remove Item" HorizontalAlignment="Left" Margin="318,26,0,0" VerticalAlignment="Top" Width="82" Click="Button2_Click"/>
+    </Grid>
+</Window>

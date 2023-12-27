@@ -1,0 +1,14 @@
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\bin\Debug\net6.0\Exercise3.exe
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\bin\Debug\net6.0\Exercise3.deps.json
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\bin\Debug\net6.0\Exercise3.runtimeconfig.json
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\bin\Debug\net6.0\Exercise3.dll
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\bin\Debug\net6.0\Exercise3.pdb
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\obj\Debug\net6.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\obj\Debug\net6.0\Exercise3.AssemblyInfoInputs.cache
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\obj\Debug\net6.0\Exercise3.AssemblyInfo.cs
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\obj\Debug\net6.0\Exercise3.csproj.CoreCompileInputs.cache
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\obj\Debug\net6.0\Exercise3.dll
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\obj\Debug\net6.0\refint\Exercise3.dll
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\obj\Debug\net6.0\Exercise3.pdb
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\obj\Debug\net6.0\Exercise3.genruntimeconfig.cache
+D:\University\3year\DevelopmentOnWindows\Overview\Practise\Lesson3\Exercise3\obj\Debug\net6.0\ref\Exercise3.dll
