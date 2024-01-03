@@ -1,0 +1,15 @@
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\bin\Debug\EntityFramework.dll
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\bin\Debug\EntityFramework.SqlServer.dll
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\bin\Debug\EntityFramework.xml
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\bin\Debug\EntityFramework.SqlServer.xml
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\obj\Debug\Exercise1.Form1.resources
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\obj\Debug\Exercise1.Properties.Resources.resources
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.GenerateResource.cache
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CopyComplete
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+D:\University\3year\DevelopmentOnWindows\Overview\Practise_Lab\Lesson9\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
