@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Services;
+using System.Data;
 
 namespace Exercise2
 {
@@ -16,7 +17,7 @@ namespace Exercise2
     // [System.Web.Script.Services.ScriptService]
     public class WebService : System.Web.Services.WebService
     {
-
+        
         [WebMethod]
         public string HelloWorld()
         {
